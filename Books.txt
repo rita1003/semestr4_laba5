@@ -1,0 +1,4 @@
+  ID            Author           Title      Pages
+0001       A.S.Pushkin       Dubrovsky        142
+0003              Kamu           Chuma        432
+0004         I.A.Bunin    Temnie_Allei        350
